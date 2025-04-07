@@ -10,3 +10,4 @@ coverage/
 *.tar.gz
 *.tgz
 *.tar
+test-ledger/
